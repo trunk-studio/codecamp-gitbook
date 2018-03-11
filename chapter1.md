@@ -6,9 +6,9 @@
 
 追蹤 Monospace 的粉專活動，取得最新梯次的 Code Camp 報名訊息。
 
-https://facebook.com/monospace.tw/events/
+[https://facebook.com/monospace.tw/events/](https://facebook.com/monospace.tw/events/)
 
-## 安裝 vscode
+## 安裝 vscode 編輯器
 
 俗話說工具善其事必先利其器，既然我們的目標是「學習」，那就選用目前最夯的程式編輯器吧！
 
@@ -17,4 +17,10 @@ https://facebook.com/monospace.tw/events/
 Visual Studio Code
 
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+## 使用 slack 進行團隊溝通
+
+## 使用 zoom 進行視訊會議
+
+
 
